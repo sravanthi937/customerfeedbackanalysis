@@ -37,22 +37,19 @@ nltk
 Install dependencies using:
 
 bash
-Copy
-Edit
+
 pip install pandas numpy scikit-learn nltk
 🚀 How to Run
 Clone the repository:
 
 bash
-Copy
-Edit
+
 git clone https://github.com/sravanthi937/customerfeedbackanalysis.git
 cd customerfeedbackanalysis
 Run the model script:
 
 bash
-Copy
-Edit
+
 python model1.py
 Check the output.csv file for the prediction results.
 
